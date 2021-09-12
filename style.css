@@ -37,7 +37,9 @@ div {
 h2 {
     color: red;
 }
-
+body {
+    margin-left: 370px;
+}
 /*nút quay thưởng, kiểm tra giải thưởng*/
 button {
     border: none;
@@ -79,7 +81,7 @@ button:hover{
 
 /*chân trang*/
 #footer {
-    width: 50%;
+    width: 65%;
     background: #F1F1F1; /* light gray */
     border-top: 1px solid #D4D4D4; /*
     dark gray "topline" */
@@ -87,6 +89,6 @@ button:hover{
 }
 
 hr {
-    width: 50%;
+    width: 65%;
     margin-left:0;
 }
